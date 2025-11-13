@@ -1,0 +1,12 @@
+{
+    "Lunedì": [
+        { "id": 1, "subject": "Costruzione del Software", "time": "9:00-11:00", "room": "Aula 3", "professor": "Prof. Rossi" },
+        { "id": 2, "subject": "Machine Learning", "time": "14:00-16:00", "room": "Aula 5", "professor": "Prof. Bianchi" }
+    ],
+    "Martedì": [
+        { "id": 3, "subject": "Analisi del Malware", "time": "9:00-11:00", "room": "Aula 2", "professor": "Prof. Verdi" }
+    ],
+    "Mercoledì": [
+        { "id": 4, "subject": "Sistemi Operativi", "time": "11:00-13:00", "room": "Aula 4", "professor": "Prof. Neri" }
+    ]
+}
