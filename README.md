@@ -1,4 +1,4 @@
-# React Lezioni Tor Vergata
+# React - Lezione 1 - Tor Vergata
 
 Progetto introduttivo pensato per familiarizzare con i concetti base di React, comprendere la struttura di un'applicazione e imparare a gestire componenti in modo semplice e chiaro.
 
