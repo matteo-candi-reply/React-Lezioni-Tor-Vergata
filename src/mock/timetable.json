@@ -11,9 +11,7 @@
         { "id": 4, "subject": "Sistemi Operativi", "time": "11:00-13:00", "room": "Aula 4", "professor": "Prof. Neri" },
         { "id": 8, "subject": "Cybersecurity", "time": "15:00-17:00", "room": "Aula 7", "professor": "Prof.ssa Viola" }
     ],
-    "Giovedì": [
-        { "id": 5, "subject": "Reti di Calcolatori", "time": "10:00-12:00", "room": "Aula 1", "professor": "Prof. Gialli" }
-    ],
+    "Giovedì": [],
     "Venerdì": [
         { "id": 6, "subject": "Ingegneria del Software", "time": "9:00-11:00", "room": "Aula 3", "professor": "Prof. Rosa" }
     ]
